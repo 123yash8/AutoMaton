@@ -28,19 +28,19 @@ bash term-open.sh "./wayback-kxss.sh"
 bash term-open.sh "./wayback_params.sh"
 sleep $interval
 figlet "Running Nmap on all the Collected Urls"|lolcat
-figlet"X-X-X-X-X-X-X-X"
+figlet "X-X-X-X-X-X-X-X"
 bash term-open.sh "./nmap_scanner.sh"
 sleep $interval
 figlet "Running nikto on all the Collected Urls"|lolcat
-figlet"X-X-X-X-X-X-X-X"
+figlet "X-X-X-X-X-X-X-X"
 bash term-open.sh "./nikto_run.sh"
 sleep $interval
 figlet "Running nuclei on all the Collected Urls"|lolcat
-figlet"X-X-X-X-X-X-X-X"
+figlet "X-X-X-X-X-X-X-X"
 bash term-open.sh "./nuclei.sh"
 sleep $interval
 figlet "Running WPscan on all the Collected Urls"|lolcat
-figlet"X-X-X-X-X-X-X-X"
+figlet "X-X-X-X-X-X-X-X"
 bash term-open.sh "./wpscan.sh"
 sleep $interval
 
