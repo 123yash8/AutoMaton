@@ -39,7 +39,7 @@ To their respective locations...\
 
 > So this is all for now I'll keep updating this tool and am looking forward for all of your support till then...........\
 
-***Sayon<sub>ara.....</sub>***
+***Sayo<sub>nara.....</sub>***
 
 
 
