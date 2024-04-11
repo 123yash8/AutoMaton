@@ -28,6 +28,19 @@ bash setup.sh
 
 ### Usage
 ` bash runner.sh <url>`
+\
+## Note
+Please make sure that you install kxss and waybackurls binary files in the /usr/bin/share directory else edit their paths in the files namely.\
+1. wayback-js.sh
+2. wayback-kxss.sh
+3. wayback_params.sh\
+
+To their respective locations...\
+
+> So this is all for now I'll keep updating this tool and am looking forward for all of your support till then...........\
+
+***Sayon<sub>ara.....</sub>***
+
 
 
 
